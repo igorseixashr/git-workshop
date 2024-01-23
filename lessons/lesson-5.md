@@ -33,4 +33,4 @@ Ao fim desse arquivo temos a instrução errada pra seguir pra `lesson-5`, onde 
 
 --- 
 
-Podemos seguir para a próxima aula na branch `lesson-5`.
+Podemos seguir para a próxima aula na branch `lesson-6`.
